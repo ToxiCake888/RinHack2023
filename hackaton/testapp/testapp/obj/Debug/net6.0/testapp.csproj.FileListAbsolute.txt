@@ -1,0 +1,14 @@
+D:\vs_projects\hackaton\testapp\testapp\bin\Debug\net6.0\testapp.exe
+D:\vs_projects\hackaton\testapp\testapp\bin\Debug\net6.0\testapp.deps.json
+D:\vs_projects\hackaton\testapp\testapp\bin\Debug\net6.0\testapp.runtimeconfig.json
+D:\vs_projects\hackaton\testapp\testapp\bin\Debug\net6.0\testapp.dll
+D:\vs_projects\hackaton\testapp\testapp\bin\Debug\net6.0\testapp.pdb
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.AssemblyInfoInputs.cache
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.AssemblyInfo.cs
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.csproj.CoreCompileInputs.cache
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.dll
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\refint\testapp.dll
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.pdb
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\testapp.genruntimeconfig.cache
+D:\vs_projects\hackaton\testapp\testapp\obj\Debug\net6.0\ref\testapp.dll
